@@ -2,6 +2,13 @@
 Data Pipeline Using Azure **(Medallion Architecture)** for AI and Data Visualization Processes
 
 
+![image](https://github.com/user-attachments/assets/c3c2c655-b26b-4802-8b3b-487a6e73accb)
+
+
+
+
+
+
 **About the E-commerce Data we are going to use**
 
  
