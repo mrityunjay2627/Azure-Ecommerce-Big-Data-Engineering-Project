@@ -1,5 +1,5 @@
 # Azure-Ecommerce-Big-Data-Engineering-Project
-Data Pipeline Using Azure (Medallion Architecture) for AI and Data Visualization Processes
+Data Pipeline Using Azure **(Medallion Architecture)** for AI and Data Visualization Processes
 
 
 **About the E-commerce Data we are going to use** 
