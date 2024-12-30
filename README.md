@@ -24,3 +24,15 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
 
+![image](https://github.com/user-attachments/assets/e9984552-98ac-45f1-8833-9ee303a54df6)
+
+
+
+**Storing Data before reading it into Azure Data Factory**
+
+
+![image](https://github.com/user-attachments/assets/b4ca162d-2cac-4034-9f7c-02a4909f77f1)
+
+
+
+
