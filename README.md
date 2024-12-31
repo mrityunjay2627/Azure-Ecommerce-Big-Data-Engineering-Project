@@ -6,9 +6,6 @@ Data Pipeline Using Azure **(Medallion Architecture)** for AI and Data Visualiza
 
 
 
-
-
-
 **About the E-commerce Data we are going to use**
 
  
@@ -32,6 +29,12 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/d514a36a-e5f4-44d1-ba33-0094ca8849e7)
 
 ![image](https://github.com/user-attachments/assets/1446f2f8-e294-4386-8bc2-02294ac25f2a)
+
+
+**Medallion Architecture**
+
+![image](https://github.com/user-attachments/assets/df7a698c-13a5-46e8-bfe3-9a01b093d344)
+
 
 
 
