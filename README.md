@@ -58,6 +58,12 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/98a9cf69-636a-455b-a54a-1956127e0451)
 
 
+**Bronze Level Reached. Data Pipeline Prepared From Data Sources To Data Factory**
+
+![image](https://github.com/user-attachments/assets/a9c4a0ad-2799-4359-baad-831b90686cbf)
+
+
+
 
 
 
