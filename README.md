@@ -38,14 +38,19 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/1446f2f8-e294-4386-8bc2-02294ac25f2a)
 
 
-**Azure Data Factory**
+**Azure Data Factory (Source)**
 
 ![image](https://github.com/user-attachments/assets/abb67c06-a44e-4b35-8b3b-d7f659d84f40)
 
 
-**Azure Data Lake Storage**
+**Azure Data Lake Storage (Sink)**
 
 ![image](https://github.com/user-attachments/assets/67e3b1bb-8b69-4ff5-b72f-182ee6fd92f6)
+
+
+**Linking HTTP Data to Azure Data Factory**
+
+![image](https://github.com/user-attachments/assets/de2c3d72-876e-491f-aeb5-0d7dd60573ee)
 
 
 
