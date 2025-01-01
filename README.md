@@ -53,6 +53,12 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/de2c3d72-876e-491f-aeb5-0d7dd60573ee)
 
 
+**Linked HTTP Data (From GitHub) and SQL Data (From Filess.io)**
+
+![image](https://github.com/user-attachments/assets/98a9cf69-636a-455b-a54a-1956127e0451)
+
+
+
 
 
 
