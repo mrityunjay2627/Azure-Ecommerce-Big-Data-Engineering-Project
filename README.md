@@ -62,7 +62,16 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![image](https://github.com/user-attachments/assets/a9c4a0ad-2799-4359-baad-831b90686cbf)
 
+**BRONZE LEVEL DONE**
 
+
+
+
+
+
+**Databricks Deployment Done**
+
+![image](https://github.com/user-attachments/assets/b7934745-37fa-4acf-97e3-65d5649d1881)
 
 
 
