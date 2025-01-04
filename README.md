@@ -97,6 +97,30 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/b7934745-37fa-4acf-97e3-65d5649d1881)
 
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**App Registration Done to get necessary permissions for Databricks-ADLS connection**
+
+![image](https://github.com/user-attachments/assets/5e456f2a-db18-4342-9e06-f427bf27e27b)
+
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Optional Method to Databricks and ADLS**
+
+![image](https://github.com/user-attachments/assets/cf61ae94-abb5-4c6a-ab81-0afb28aaa8f8)
+
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Access to ADLS Data given to Databricks via App Registration**
+
+![image](https://github.com/user-attachments/assets/800d3f31-8b65-48f3-9c3d-7f4e980cd0fc)
+
+
 
 
 
