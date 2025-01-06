@@ -137,6 +137,19 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/a69be52a-4919-4072-aefe-a77859f8ee84)
 
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+
+**Data Exported to Silver Layer from Databricks after Data Transformation and Data Enrichment using Spark and MongoDB**
+
+![image](https://github.com/user-attachments/assets/3a339866-b31b-4931-8738-0f05947a9517)
+
+
+
+**-----------------------------------------------------------------SILVER LEVEL ACHIEVED----------------------------------------------------------**
+
+
 
 
 
