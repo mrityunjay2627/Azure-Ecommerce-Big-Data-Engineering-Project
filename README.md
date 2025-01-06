@@ -121,9 +121,20 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ![image](https://github.com/user-attachments/assets/800d3f31-8b65-48f3-9c3d-7f4e980cd0fc)
 
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
 **Installing pymongo library in the Databricks cluster to connect with MongoDB in my Spark Notebook**
 
 ![image](https://github.com/user-attachments/assets/ef8ae7f5-64e3-4dc6-8deb-4df2edc5ace7)
+
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Creating Visualizations in Databricks**
+
+![image](https://github.com/user-attachments/assets/a69be52a-4919-4072-aefe-a77859f8ee84)
 
 
 
