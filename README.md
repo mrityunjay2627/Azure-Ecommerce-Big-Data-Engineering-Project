@@ -123,6 +123,9 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 **Installing pymongo library in the Databricks cluster to connect with MongoDB in my Spark Notebook**
 
+![image](https://github.com/user-attachments/assets/ef8ae7f5-64e3-4dc6-8deb-4df2edc5ace7)
+
+
 
 
 
