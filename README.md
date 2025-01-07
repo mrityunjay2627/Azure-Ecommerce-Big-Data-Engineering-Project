@@ -162,6 +162,14 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![image](https://github.com/user-attachments/assets/a41f80fb-2ce9-4e06-b26d-0729f57cf0f3)
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Azure Synapse Setup Successful**
+
+![image](https://github.com/user-attachments/assets/832b8248-dfc3-4731-891a-f24999f97627)
+
+
 
 
 
