@@ -169,6 +169,13 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![image](https://github.com/user-attachments/assets/832b8248-dfc3-4731-891a-f24999f97627)
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Access Permission To Synapse to access SILVER data from Azure Data Lake Storage**
+
+![image](https://github.com/user-attachments/assets/ded4724c-4913-4694-a90f-5dc9c4a15f85)
+
 
 
 
