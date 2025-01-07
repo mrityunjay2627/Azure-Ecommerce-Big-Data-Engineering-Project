@@ -176,6 +176,39 @@ Kaggle -> https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![image](https://github.com/user-attachments/assets/ded4724c-4913-4694-a90f-5dc9c4a15f85)
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Creating Serverless SQL Pool (Pay-As-You-Go) for reading/querying the data in Azure Synapse**
+
+![image](https://github.com/user-attachments/assets/bbaaa90f-c106-436e-b6d0-96e242dd7c5d)
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**Creating a View using SQL in Azure Synapse**
+
+![image](https://github.com/user-attachments/assets/4d111848-51c6-45d9-9501-c87c8a4ce205)
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+
+
+**CETAS (Create External Table As Select) to migrate data from Synapse to Gold Layer**
+
+![image](https://github.com/user-attachments/assets/8f1be7cf-29d8-49e7-aedc-915f26ecc866)
+
+
+**Populated Final Serving Data for AI and Analytics Operations**
+
+![image](https://github.com/user-attachments/assets/a307b48a-38de-4ff3-8f7f-fb190833a424)
+
+
+
+**-----------------------------------------------------------------GOLD LEVEL ACHIEVED----------------------------------------------------------**
+
+**-----------------------------------------------------------------Deleting Resource Groups And Final Cleanup----------------------------------------------------------**
+
+![image](https://github.com/user-attachments/assets/9dc1858c-a210-47eb-9272-a5c600595761)
 
 
 
